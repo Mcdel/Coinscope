@@ -22,7 +22,7 @@ We will go over the various money-making opportunities available in cryptocurren
 
 ## Trading Cryptocurrency
 
-![1](https://user-images.githubusercontent.com/54814998/148743759-61fd6ef8-de80-4313-a70d-19c3de4d66dc.jpg)
+![cover](https://user-images.githubusercontent.com/54814998/148745000-9c327bba-41c9-4ade-9938-1a9c3f0c5aa2.jpg)
 
 Trading cryptocurrency is a very popular method of earning money in the cryptocurrency space. Trading cryptocurrencies can be quite profitable, as you can earn a lot of money in a short period of time.
 
