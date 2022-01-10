@@ -1,5 +1,7 @@
 # Can You Make Good Money through Crypto?
 
+![michael-fortsch-1wNZhutHQEk-unsplash](https://user-images.githubusercontent.com/54814998/148742821-c9d00789-4176-4ae3-9929-3eeb1eb25050.jpg)
+
 Each day, the cryptocurrency space continues to gain mainstream acceptance through new use cases and solutions, resulting in increased adoption, investment, and a growing user base. Despite the excitement surrounding cryptocurrency, there is one critical question that all business-minded individuals should ask before diving into the ocean of cryptocurrency investment.
 
 The simple, straightforward question is: Can I earn a living trading cryptocurrency?
@@ -19,6 +21,8 @@ There are numerous ways to make money with cryptocurrency. You must understand w
 We will go over the various money-making opportunities available in cryptocurrency without further ado.
 
 ## Trading Cryptocurrency
+
+![1](https://user-images.githubusercontent.com/54814998/148743759-61fd6ef8-de80-4313-a70d-19c3de4d66dc.jpg)
 
 Trading cryptocurrency is a very popular method of earning money in the cryptocurrency space. Trading cryptocurrencies can be quite profitable, as you can earn a lot of money in a short period of time.
 
