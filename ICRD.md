@@ -3,7 +3,6 @@
 Decentralization is one word that pops up most times when we talk about cryptocurrency. The term has almost become synonymous with cryptocurrency to the point that it is usually one of the first advantages usually accrued to cryptocurrency. But what exactly does decentralization mean in cryptocurrency?
 
 In this post, we dissect the notion of decentralization in blockchain technology and how it specifically applies to cryptocurrency. The highlight of the article is broken down below:
-cally applies to cryptocurrency. The highlight of the article is broken down below:
 - What is Decentralization in Cryptocurrency?
 - Is Decentralization good for Crypto?
 - Why does decentralization matter in the crypto space?
