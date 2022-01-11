@@ -1,4 +1,6 @@
-# Is Crypto really Decentralized? 
+# Is Crypto really Decentralized?
+
+![Blockchain](https://user-images.githubusercontent.com/54814998/148978066-aa7d2051-a139-484f-9977-3cd396e15d85.png)
 
 Decentralization is one word that pops up most times when we talk about cryptocurrency. The term has almost become synonymous with cryptocurrency to the point that it is usually one of the first advantages usually accrued to cryptocurrency. But what exactly does decentralization mean in cryptocurrency?
 
@@ -28,7 +30,7 @@ The failings of a centralized economic structure led to the blockchain and crypt
 
 To begin, decentralization liberates the financial system from the constraints imposed by centralized authorities. Due to the fact that cryptocurrency is not controlled by a single authority, it is less susceptible to manipulation. The cryptocurrency market has a sizable impact on price fluctuations. Though it has demonstrated volatility, the element of freedom from control represents a significant departure from the established traditional financial system.
 
-Decentralization, on the other hand, increases the security of cryptocurrency for users. In a traditional financial system, the government can easily track users and punish dissidents by freezing their accounts, monitoring their expenses, or imposing spending restrictions. This is not possible in cryptocurrency, as no single entity has the ability to dictate or control blockchain activity. This is yet another demonstration of the financial liberty that cryptocurrency provide
+Decentralization, on the other hand, increases the security of cryptocurrency for users. In a traditional financial system, the government can easily track users and punish dissidents by freezing their accounts, monitoring their expenses, or imposing spending restrictions. This is not possible in cryptocurrency, as no single entity has the ability to dictate or control blockchain activity. This is yet another demonstration of the financial liberty that cryptocurrency provides.
 
 
 ### Global Access
